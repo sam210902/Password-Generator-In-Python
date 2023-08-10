@@ -1,2 +1,2 @@
 # Password-Generator-In-Python
-This is a password generator program in Python. It generated a random password containing upper-case characters, lower-case characters, numbers, and special characters. It can generate a password of your desired length.charactersa
+This Python program creates random passwords. It produced a password at random that had uppercase, lowercase, digits, and special characters. You can specify the length of the generated password.
