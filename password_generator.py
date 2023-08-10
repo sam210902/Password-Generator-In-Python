@@ -57,7 +57,6 @@ def start():
     sp=int(input("how much special character you want:"))
 
     passgen(lc,uc,num,sp)
-    #print(f"Your password is:\n{password}")
 
 # function call
 start()
